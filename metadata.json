@@ -1,0 +1,8 @@
+{
+  "name": "Remix Spotify Lyric Studio by WXHNSENN",
+  "description": "A seamless 9:16 vertical cinematic loop of physical sculptural impasto oil painting with organic light sweep and gentle breeze motion for Spotify Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
